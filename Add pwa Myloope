@@ -1,0 +1,16 @@
+<a class="list__item app js-app"
+				href="https://www.myloope.com/webapp/"
+				data-app="Myloope VPass App"
+				data-tags="Application Fidélité">
+			<div class="app__wrapper">
+				<h2 class="app__title">
+					Myloope V-Pass Fidélité
+				</h2>
+			</div>
+			<style>
+				[data-app='myloope'] {
+					color: #017baa;
+					background: currentColor url(https://www.myloope.com/Content/themes/base/images/vpass-icon.png) 50% 50% / 50% auto no-repeat;
+					}
+			</style>
+		</a>
